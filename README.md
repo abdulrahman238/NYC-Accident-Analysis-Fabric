@@ -53,4 +53,6 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 
 ---
 
+![Semantic Model](semantic_model.png)
 
+![Power BI Dashboard](nyc_dashboard.png)
