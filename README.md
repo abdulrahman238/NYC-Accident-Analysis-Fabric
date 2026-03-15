@@ -41,7 +41,7 @@ Semantic model is created with measures, KPIs, and relationships to enable analy
 ## 6. Power BI Dashboard
 Interactive dashboards visualize accident trends, hotspots, and insights.
 
-![Power BI Dashboard](new_york_accident dashboard.png) <!-- Replace with your Power BI dashboard image -->
+![Semantic Model](new_york_accident dashboard.png) <!-- Replace with your Power BI dashboard image -->
 
 ---
 
