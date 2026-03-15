@@ -13,7 +13,7 @@ Raw accident data is loaded into the Lakehouse, providing a central repository f
 ## 2. Pipeline – Data Copy & Preparation
 Data is copied from the Lakehouse into structured tables and prepared for transformation.
 
-![Pipeline](pipeline-image.png)  <!-- Replace with your Pipeline image -->
+![Pipeline](pipeline.png)  <!-- Replace with your Pipeline image -->
 
 ---
 
