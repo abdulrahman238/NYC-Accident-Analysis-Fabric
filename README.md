@@ -34,7 +34,7 @@ Transformed data is stored in the Data Warehouse for efficient querying.
 ## 5. Semantic Model
 Semantic model is created with measures, KPIs, and relationships to enable analytics.
 
-![Semantic Model](semanticmodel-image.png)  <!-- Replace with your Semantic Model image -->
+![Semantic Model](sementic model.png)  <!-- Replace with your Semantic Model image -->
 
 ---
 
@@ -46,14 +46,11 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 ---
 
 ### Technologies Used
-- Microsoft Fabric (Lakehouse, Pipeline, Data Warehouse, Semantic Model)
+- Microsoft Fabric (Lakehouse, Pipeline, Data Warehouse,Data_Flow_2, Semantic Model)
 - Power BI
-- SQL / Python (for transformations, if applicable)
+- SQL
+  
 
 ---
 
-### Key Insights
-- Top accident-prone NYC boroughs
-- Accident trends by time of day
-- Common causes and outcomes
-- Interactive, filterable dashboard for decision-making
+
