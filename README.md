@@ -3,7 +3,7 @@ End-to-end analysis of NYC motor vehicle accidents using Microsoft Fabric and Po
 
 ![Workflow](Nyc_accident_Workflow.png)
 
-
+<img src="Nyc_accident_Workflow.png" width="800">
 
 ---
 
