@@ -53,6 +53,7 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 - Data Flow Gent_2
 - Power BI
 - SQL Query
+- Data Pipeline
   
 
 ---
