@@ -45,10 +45,14 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 
 ---
 
-### Technologies Used
-- Microsoft Fabric (Lakehouse, Pipeline, Data Warehouse,Data_Flow_2, Semantic Model)
+### Tools Used
+- Microsoft Fabric
+- Lake house
+- Data Ware house
+- Sementic Model
+- Data Flow Gent_2
 - Power BI
-- SQL
+- SQL Query
   
 
 ---
