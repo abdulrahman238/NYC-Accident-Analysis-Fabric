@@ -3,8 +3,6 @@ End-to-end analysis of NYC motor vehicle accidents using Microsoft Fabric and Po
 
 ![Workflow](workfllow.jpg)
 
----
-
 ## 1. Lakehouse – Raw Data Storage
 Raw accident data is loaded into the Lakehouse, providing a central repository for analysis.
 
