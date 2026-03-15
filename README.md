@@ -34,7 +34,7 @@ Transformed data is stored in the Data Warehouse for efficient querying.
 ## 5. Semantic Model
 Semantic model is created with measures, KPIs, and relationships to enable analytics.
 
-![Data Warehouse](sementic model.png)  <!-- Replace with your Semantic Model image -->
+![Semantic Model](semantic_model.png)  <!-- Replace with your Semantic Model image -->
 
 ---
 
