@@ -34,7 +34,7 @@ Transformed data is stored in the Data Warehouse for efficient querying.
 ## 5. Semantic Model
 Semantic model is created with measures, KPIs, and relationships to enable analytics.
 
-![Semantic Model](semantic_model.png)  <!-- Replace with your Semantic Model image -->
+![Semantic Model](sementic_model.png)  <!-- Replace with your Semantic Model image -->
 
 ---
 
@@ -53,6 +53,3 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 
 ---
 
-![Semantic Model](semantic_model.png)
-
-![Power BI Dashboard](nyc_dashboard.png)
