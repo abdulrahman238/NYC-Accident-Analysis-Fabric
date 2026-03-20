@@ -64,3 +64,4 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 - [![Lakehouse](https://img.shields.io/badge/Lakehouse-1F77B4?style=flat)](https://en.wikipedia.org/wiki/Lake_house_architecture) **Lakehouse**
 - [![Semantic Model](https://img.shields.io/badge/Semantic%20Model-00A0E0?style=flat&logo=visual-studio-code&logoColor=white)](https://en.wikipedia.org/wiki/Semantic_model) **Semantic Model**
 - [![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Medallion_architecture) **Medallion Architecture**
+- [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/) **Power BI**
