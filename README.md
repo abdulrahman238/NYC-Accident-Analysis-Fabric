@@ -57,7 +57,6 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
   
 
 ---
-
 # 📌 Data Concepts Covered
 
 - [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/fabric/) **Microsoft Fabric**
@@ -65,4 +64,3 @@ Interactive dashboards visualize accident trends, hotspots, and insights.
 - [![Lakehouse](https://img.shields.io/badge/Lakehouse-1F77B4?style=flat)](https://en.wikipedia.org/wiki/Lake_house_architecture) **Lakehouse**
 - [![Semantic Model](https://img.shields.io/badge/Semantic%20Model-00A0E0?style=flat&logo=visual-studio-code&logoColor=white)](https://en.wikipedia.org/wiki/Semantic_model) **Semantic Model**
 - [![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Medallion_architecture) **Medallion Architecture**
-
